@@ -837,6 +837,7 @@ video {
   width: 55%;
 }
 
+<<<<<<< HEAD
 .w-full {
   width: 100%;
 }
@@ -885,6 +886,8 @@ video {
   width: px;
 }
 
+=======
+>>>>>>> 21c2b352b02a89b9f5d23e2193f0dcbc088b5902
 .max-w-2xl {
   max-width: 42rem;
 }
